@@ -1,5 +1,5 @@
-# Repo de Pruebas de Branching
+# Resolviendo Conflictos
 
-Modifico el archivo generando una version en main.
+Esta es una linea de texto en main
 
-Va a diferir de la version de la rama.
+Esta es otra linea de texto en main
